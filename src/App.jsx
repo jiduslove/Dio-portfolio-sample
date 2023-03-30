@@ -16,6 +16,11 @@ function App() {
           </ul>
         </div>
       </header>
+      <main>
+        <div className="bg-green-100 max-w-screen-xl mx-auto h-96 flex justify-center items-center">
+          저는 파란남방입은 남자 입니다.
+        </div>
+      </main>
     </div>
   );
 }
