@@ -1,7 +1,7 @@
 import Header from "./components/Header";
 import Introduce from "./components/Introduce";
 import Portfolio from "./components/Portfolio";
-import ContactMe from "./components/ContactMe";
+import ContactMe from "./components/ContactMe"; //scss처럼 정리해주는 느낌
 
 function App() {
   return (
